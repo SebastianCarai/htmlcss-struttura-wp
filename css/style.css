@@ -8,7 +8,7 @@
 
 /* GENERAL */
 .container{
-    width: 60%;
+    width: 80%;
     margin: auto;
 }
 .clearfix::after{
@@ -16,17 +16,14 @@
     display: table;
     clear: both;
 }
-.full-width{
-    width: 100%;
-}
 
 
 /* HEADER */
-.pink{
+.pink-box{
     background-color: #e579e6;
     height: 80px;
 }
-.yellow{
+.yellow-box{
     background-color: #e1d67a;
     height: 400px;
     margin: 2% 0;
